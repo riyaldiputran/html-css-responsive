@@ -1,2 +1,2 @@
 # html-css-responsive
-Build html css and bootstrap responsive design about Museum of Candy Project
+Build front-end website using html, css and bootstrap. This is responsive website that you can use in any screens. Let's dive to Museum of Candy!
